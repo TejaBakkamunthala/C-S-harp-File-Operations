@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\FileIOOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\binarywriterandreader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\binarywriterandreader1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|f:\\dotnetprogramss\\fileiooperations\\fileiooperations\\filewriter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\filewriter1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\readandwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\readandwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\readandwritelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\readandwritelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\streamwriterandstreamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\streamwriterandstreamreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\fileinfoproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\fileinfoproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\file1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\directory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\directory1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\csharptojsonviceversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\csharptojsonviceversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\csvreadwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\csvreadwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|F:\\DotNetProgramss\\FileIOOperations\\fileiooperations\\binaryserialization1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931619-A9A3-4D07-BAB3-0D1B21463E5A}|FileIOOperations\\FileIOOperations.csproj|solutionrelative:fileiooperations\\binaryserialization1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\Program.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\Program.cs",
+              "RelativeToolTip": "FileIOOperations\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T05:02:57.255Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileInfoProperties.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\FileInfoProperties.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\FileInfoProperties.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\FileInfoProperties.cs",
+              "RelativeToolTip": "FileIOOperations\\FileInfoProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:17:09.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadAndWrite.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\ReadAndWrite.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\ReadAndWrite.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\ReadAndWrite.cs",
+              "RelativeToolTip": "FileIOOperations\\ReadAndWrite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:12:31.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadAndWriteLines.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\ReadAndWriteLines.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\ReadAndWriteLines.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\ReadAndWriteLines.cs",
+              "RelativeToolTip": "FileIOOperations\\ReadAndWriteLines.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:12:20.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Directory1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\Directory1.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\Directory1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\Directory1.cs",
+              "RelativeToolTip": "FileIOOperations\\Directory1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:38:07.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StreamWriterAndStreamReader.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\StreamWriterAndStreamReader.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\StreamWriterAndStreamReader.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\StreamWriterAndStreamReader.cs",
+              "RelativeToolTip": "FileIOOperations\\StreamWriterAndStreamReader.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswCYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:15:56.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinaryWriterAndReader1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\BinaryWriterAndReader1.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\BinaryWriterAndReader1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\BinaryWriterAndReader1.cs",
+              "RelativeToolTip": "FileIOOperations\\BinaryWriterAndReader1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T10:25:33.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileWriter1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\FileWriter1.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\FileWriter1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\FileWriter1.cs",
+              "RelativeToolTip": "FileIOOperations\\FileWriter1.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T13:38:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "File1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\File1.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\File1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\File1.cs",
+              "RelativeToolTip": "FileIOOperations\\File1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:34:02.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CsvReadWrite.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\CsvReadWrite.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\CsvReadWrite.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\CsvReadWrite.cs",
+              "RelativeToolTip": "FileIOOperations\\CsvReadWrite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:21:02.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BinarySerialization1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\BinarySerialization1.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\BinarySerialization1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\BinarySerialization1.cs",
+              "RelativeToolTip": "FileIOOperations\\BinarySerialization1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:56:00.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CsharpToJsonViceVersa.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\CsharpToJsonViceVersa.cs",
+              "RelativeDocumentMoniker": "FileIOOperations\\CsharpToJsonViceVersa.cs",
+              "ToolTip": "F:\\DotNetProgramss\\FileIOOperations\\FileIOOperations\\CsharpToJsonViceVersa.cs",
+              "RelativeToolTip": "FileIOOperations\\CsharpToJsonViceVersa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T05:37:15.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
